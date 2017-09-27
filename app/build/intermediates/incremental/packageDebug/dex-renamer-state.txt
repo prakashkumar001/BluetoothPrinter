@@ -1,0 +1,4 @@
+#Tue Sep 26 17:26:28 IST 2017
+base.0=D\:\\DailyBackup\\sep 2017\\26.09.2017\\Android-Bluetooth-Printer-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\DailyBackup\\sep 2017\\26.09.2017\\Android-Bluetooth-Printer-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

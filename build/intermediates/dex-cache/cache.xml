@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Creative IT Works\.android\build-cache\0849ec1b4332e9b779d2cbdd76d157cffd033bda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\DailyBackup\sep 2017\26.09.2017\Android-Bluetooth-Printer-master1\app\build\intermediates\pre-dexed\debug\classes_4c7c2fdc44bf9f70fe1ca3ff4ee096a7e4d31307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Creative IT Works\.android\build-cache\4d6a535a7aeb3c021ee1817b5e1a495f4c437542\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\DailyBackup\sep 2017\26.09.2017\Android-Bluetooth-Printer-master1\app\build\intermediates\pre-dexed\debug\classes_e233ed96f439fe89766d4712cb389a84cf1293cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Androidsdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\DailyBackup\sep 2017\26.09.2017\Android-Bluetooth-Printer-master1\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_03c686516e29b69a1115bec4364591e49bea53fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Creative IT Works\.android\build-cache\a46109396117526cfb7a241b24d7a035bff69387\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\DailyBackup\sep 2017\26.09.2017\Android-Bluetooth-Printer-master1\app\build\intermediates\pre-dexed\debug\classes_0e1a40894ec0953b9009e97d2399dcd0bec80c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Creative IT Works\.android\build-cache\f84478f8010f5a55ac138a5d781376ad5e733a7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\DailyBackup\sep 2017\26.09.2017\Android-Bluetooth-Printer-master1\app\build\intermediates\pre-dexed\debug\classes_247489648f005be92c039e7577ea1450b055c651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Creative IT Works\.android\build-cache\d301e14e1d97b884e07d937cb5e35b29d3ed902d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\DailyBackup\sep 2017\26.09.2017\Android-Bluetooth-Printer-master1\app\build\intermediates\pre-dexed\debug\classes_6e9c31370a0cd19363b715286dc797e9be411fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Creative IT Works\.android\build-cache\7ca95f14d45b9e7b14739586e01b237942136351\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\DailyBackup\sep 2017\26.09.2017\Android-Bluetooth-Printer-master1\app\build\intermediates\pre-dexed\debug\classes_451df66ee83882bc22dd3262abd01bc750ea169b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Creative IT Works\.android\build-cache\84c6bc5c6fe7d0418f49a4ae1d59a0e38fb70ce0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\DailyBackup\sep 2017\26.09.2017\Android-Bluetooth-Printer-master1\app\build\intermediates\pre-dexed\debug\classes_56de3fd59d29c57cd1548bb177ec2d64fa9e0a88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Creative IT Works\.android\build-cache\6f265be21001b6afb95c1d09b9a590fa7ed74fc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\DailyBackup\sep 2017\26.09.2017\Android-Bluetooth-Printer-master1\app\build\intermediates\pre-dexed\debug\classes_5934e4c649a72a2a7627b8fee12afba90e3eeda6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Creative IT Works\.android\build-cache\c3b4023afce0e6455bde1740cdad0051b8a38c3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\DailyBackup\sep 2017\26.09.2017\Android-Bluetooth-Printer-master1\app\build\intermediates\pre-dexed\debug\classes_087d28587a0751f15bf47dbf8bac258b72d3d5e5.jar" />
+    </item>
+
+</items>
